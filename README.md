@@ -1,4 +1,4 @@
-# sentdex's
+
 #### [Scikit-Learn tutorials for Machine Learning in Python for Investing](http://pythonprogramming.net/scikit-learn-tutorials-machine-learning-python-investing/ "Scikit-Learn tutorials for Machine Learning in Python for Investing")
 
 > This is the same code as in the videos, but it's easier to grab the code using:
@@ -27,3 +27,5 @@ pip3 install -r requirements.txt
 
 ***
 ***
+
+Thank you to Chris/cleesmith for putting these up initially, sharing with others! 
